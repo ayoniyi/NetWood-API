@@ -10,7 +10,7 @@ const logger = winston.createLogger({
     winston.format.splat(),
     winston.format.json()
   ),
-  defaultMeta: { service: "nolewood-api" },
+  defaultMeta: { service: "NetWood-api" },
   transports: [
     new winston.transports.Console({
       format: winston.format.combine(

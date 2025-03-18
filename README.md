@@ -1,10 +1,10 @@
-# Nolewood API
+# NetWood API
 
 A RESTful API for fetching and categorizing Nigerian movies and TV shows using the YouTube API.
 
 ## Overview
 
-Nolewood API provides a comprehensive solution for accessing Nigerian film content. It fetches data from YouTube, categorizes it intelligently, and stores it in a MongoDB database to reduce API calls and improve performance.
+NetWood API provides a comprehensive solution for accessing Nigerian film content. It fetches data from YouTube, categorizes it intelligently, and stores it in a MongoDB database to reduce API calls and improve performance.
 
 ### Key Features
 
@@ -41,8 +41,8 @@ Nolewood API provides a comprehensive solution for accessing Nigerian film conte
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/nolewood-api.git
-   cd nolewood-api
+   git clone https://github.com/yourusername/NetWood-api.git
+   cd NetWood-api
    ```
 
 2. Install dependencies:
@@ -55,7 +55,7 @@ Nolewood API provides a comprehensive solution for accessing Nigerian film conte
 
    ```
    PORT=3000
-   MONGODB_URI=mongodb://localhost:27017/nolewood
+   MONGODB_URI=mongodb://localhost:27017/NetWood
    NODE_ENV=development
    YOUTUBE_API_KEY=your_youtube_api_key
    RATE_LIMIT_WINDOW_MS=900000

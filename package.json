@@ -1,5 +1,5 @@
 {
-  "name": "nolewood-api",
+  "name": "NetWood-api",
   "version": "1.0.0",
   "description": "API for fetching Nigerian movies and TV shows using the YouTube API",
   "main": "src/server.js",

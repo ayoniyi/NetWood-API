@@ -70,7 +70,7 @@ app.use("/api/content", contentRoutes);
 app.get("/", (req, res) => {
   res.json({
     success: true,
-    message: "Welcome to Nolewood API",
+    message: "Welcome to NetWood API",
     version: "1.0.0",
   });
 });

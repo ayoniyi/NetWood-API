@@ -1,6 +1,6 @@
-# Nolewood API Documentation
+# NetWood API Documentation
 
-This document provides comprehensive documentation for the Nolewood API, which serves Nigerian movies and TV shows data fetched from YouTube.
+This document provides comprehensive documentation for the NetWood API, which serves Nigerian movies and TV shows data fetched from YouTube.
 
 ## Base URL
 
